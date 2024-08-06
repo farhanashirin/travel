@@ -1,0 +1,146 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Oswald", sans-serif;
+    
+}
+h2{
+    align-content: center;
+}
+
+header{
+    display: flex;
+    justify-content: flex-end;
+    background-color:darkgrey;
+    height: 30px;
+    border: double;
+   
+
+
+}
+.btn{
+    display: flex;
+    gap: 10px; 
+    
+}
+button{
+
+    border-radius: 5px;
+    background-color: rgb(221, 193, 248);
+  
+
+}
+button:hover{
+    color: aliceblue;
+}
+
+
+
+.sec{
+
+    display: flex;
+    height: 400px;
+    background-color: antiquewhite;
+
+display: flex;
+justify-content: center;
+align-items: center;
+text-align: center;
+}
+
+.sec button{
+    background-color: chartreuse;
+    margin: 10px;
+}
+
+
+.services
+{
+    height:900px;
+   
+  
+}
+ .service-item
+{
+    display: flex;
+    justify-content:space-;
+   
+     margin: 10px;
+    margin-left: 120px; 
+   
+   
+  
+  
+} 
+.service-item .item-1 {
+   
+    background-color: #d4d4c8;
+    width:200px;
+    height: 250px;
+   margin: 2px;
+    text-align: center;
+    border-radius: 5px;
+    padding: 2px;
+    border-radius:10px ;
+ 
+}
+.packages{
+    display:flex;
+    justify-content:space-evenly;
+    text-align: center;
+    padding: 50px;
+    background-color: rgb(156, 247, 217);
+}
+.pack-1{
+    width:450px;
+    height: 350px;
+    background-color: antiquewhite;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 10px;
+
+}
+img{
+    width:200px;
+    height: 250px;
+  
+   
+    border-radius: 5px;
+    padding: 2px;
+    border-radius:10px ;
+
+}
+.packages button{
+    background-color: chartreuse;
+}
+
+.footer
+{
+    display:flex;
+    align-items: center;
+   justify-content: space-around;
+   margin-top: 800px;
+
+}
+
+.contact
+{
+height: 200px;
+margin-top: 5px;
+padding: 10px;
+background-color: #d4d4c8;
+display: flex;
+margin: 10px;
+justify-content: space-around;
+
+
+
+}
+.contact input {
+   background-color: cadetblue;
+   display: flex;
+   
+  
+}
+
+
